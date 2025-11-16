@@ -7,7 +7,7 @@ Scrooge's Bonus is based on the gift-exchange game (also known as the gift excha
 Here is an overview of the gift-exchange game and its structure, providing context for the Scrooge's Bonus game:
 
 While the simplest form of the general gift-exchange game typically involves only two players—Scrooge and an employee—the Scrooge's Bonus game, which is a themed implementation of the gift-exchange dilemma, uses a multi-player format for the ABS Data Engineers' Challenge. The game proceeds sequentially:
-1. Scrooge's Move (The Gift): Scrooge first decides whether to award a bonus (the "turkey") or give no bonus.
+1. Scrooge's Move (The Gift): Scrooge first decides whether to award a bonus (the "turkey") or withhold a bonus.
 2. Employee's Move (The Reciprocation): Employees then individually decide whether to reciprocate the bonus choice with a higher level of effort (work harder) or a lower level of effort.
 
 This sequence continues for a number of rounds. 

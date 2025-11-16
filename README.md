@@ -65,21 +65,6 @@ def opportunistic_employee(history: pd.DataFrame) -> str:
     return "high" if history.iloc[-1]["scrooge_action"] == "turkey" else "low"
 ```
 
-Running a single match programmatically:
-
-```python
-%run game_helpers.ipynb
-
-result = run_match(
-    scrooge_fn=tit_for_tat_scrooge,
-    employee_fn=opportunistic_employee,
-    rounds=4,
-)
-
-result.history  # pandas DataFrame of round-by-round outcomes
-result.employer_total, result.employee_total
-```
-
 ## Example history inputs to strategies
 
 During simulation, each strategy receives a view of past rounds.

@@ -69,7 +69,6 @@ def opportunistic_employee(history: pd.DataFrame) -> str:
 
 During simulation, each strategy receives a view of past rounds.
 
-History passed to Scrooge strategies (columns: `scrooge_action`, `high_effort`, `low_effort`):
 History passed to Scrooge strategies (columns: `round`, `scrooge_action`, `high_effort`, `low_effort`):
 
 | round | scrooge_action | high_effort | low_effort |

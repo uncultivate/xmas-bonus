@@ -77,7 +77,7 @@ History passed to Scrooge strategies (columns: `scrooge_action`, `high_effort`, 
 | 2     | no_turkey       | 1           | 1          |
 | 3     | no_turkey       | 0           | 2          |
 
-History passed to Employee strategies (columns: `scrooge_action`, `my_action`, `high_effort`, `low_effort`):
+History passed to Employee strategies (columns: `round`, `scrooge_action`, `my_action`, `high_effort`, `low_effort`):
 
 | round | scrooge_action | my_action | high_effort | low_effort |
 |------:|-----------------|-----------|------------:|-----------:|

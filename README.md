@@ -35,15 +35,6 @@ The core concept the game investigates is reciprocity. The theory suggests that 
 - (no_turkey, high): (3, 0)
 - (no_turkey, low): (1, 1)
 
-## Build your own strategies
-
-- Scrooge strategy signature: def scrooge(history: pd.DataFrame) -> str where history has columns scrooge_action, high_effort, low_effort.
-- Employee strategy signature: def employee(history: pd.DataFrame) -> str where history additionally includes my_action.
-
-Notes
-
-- See sample_players.ipynb for simple baselines like generous and tit_for_tat.
-
 ## Example strategies (Python)
 
 Here are minimal examples of a Scrooge strategy and an employee strategy you can drop into `sample_players.ipynb`:

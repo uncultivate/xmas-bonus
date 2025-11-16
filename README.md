@@ -14,7 +14,9 @@ This sequence continues for a number of rounds.
 
 The core concept the game investigates is reciprocity. The theory suggests that if Scrooge offers a higher salary, employees are more inclined to reciprocate with greater effort, leading to mutually beneficial outcomes. Reciprocity is a fundamental factor that shapes individuals' behavior in economic contexts, demonstrating that self-interest maximization is not the sole determinant of economic decision-making.
 
-![Scrooge's Bonus](image.png)
+<p align="center">
+  <img src="image.png" alt="Scrooge's Bonus" width="400" height="400" />
+</p>
 
 ## Quick start
 

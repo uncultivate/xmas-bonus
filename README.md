@@ -2,7 +2,7 @@
 
 ## About the game
 
-Scrooge's Bonus is based on the gift-exchange game (also known as the gift exchange dilemma), a common economic game theory model introduced by George Akerlof and Janet Yellen to simulate reciprocacy in labor relations. It serves as a valuable tool for understanding the principal-agent problem in labor economics.
+Scrooge's Bonus is based on the gift-exchange game (also known as the gift exchange dilemma), a common economic game theory model introduced by George Akerlof and Janet Yellen to simulate reciprocity in labor relations. It serves as a valuable tool for understanding the principal-agent problem in labor economics.
 
 Here is an overview of the gift-exchange game and its structure, providing context for the Scrooge's Bonus game:
 
